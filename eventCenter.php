@@ -5,6 +5,9 @@
 
 
 //参见 https://docs.starrtc.com/docs/aec-index.html
+
+//author: admin@elesos.com
+
 $aec_dir = dirname(__FILE__);
 require_once($aec_dir . '/config.php');
 

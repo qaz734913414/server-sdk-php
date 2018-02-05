@@ -1,6 +1,6 @@
 <?php
 //获取authKey
-
+//author: admin@elesos.com
 
 $dir = dirname(__FILE__);
 require_once($dir . '/config.php');
